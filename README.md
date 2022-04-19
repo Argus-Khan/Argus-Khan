@@ -9,6 +9,6 @@ __I'm a CS student at SEEU and a hobbyist solo indie game dev on the side.__
   ### Minor projects
   * __Regspot__ - Forked version of The Ragulus cocky theme with support for Spotify.
   * __TAG__ - A 2d Game.
-  ### Back burner project
+  ### Back burner projects
   * __Ano__ - A simple AI chatbot.
   * __Mojikey__ - A light-weight emoji + kaomoji keyboard for Linux.

@@ -7,7 +7,7 @@ __I'm a CS student at SEEU and a hobbyist solo indie game dev on the side.__
   * [__Snitcher__](https://github.com/Argus-Khan/Snitcher) - A lightweight cross-platform user activity monitoring app for Sudents'/Children's supervision.
   * [__Demonic Blood__](https://www.wattpad.com/story/233183793-demonic-blood) - An action fantasy light novel.
   ### Minor projects
-  * __Regspot__ - Forked version of The Ragulus cocky theme with support for Spotify.
+  * [__Regspot__](https://github.com/Argus-Khan/RegSpot) - Forked version of The Ragulus cocky theme with support for Spotify.
   * __TAG__ - A 2d Game.
   ### Back burner projects
   * __Ano__ - A simple AI chatbot.

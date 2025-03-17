@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Argus
-__I'm a CS student at SEEU and a hobbyist solo indie game dev on the side.__
+__I'm a Front-End Dev (React/Vue), CompSci student, Linux nerd and a hobbyist solo indie game dev on the side.__
 - 🌱 I’m currently learning C++, Unity 3D, JavaScript.
 ## 🎯 Some of my projects inclue:
   ### Major projects

@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Argus
 __I'm a Front-End Dev (React/Vue), CompSci student, Linux nerd and a hobbyist solo indie game dev on the side.__
-- 🌱 I’m currently learning C++, Unity 3D, JavaScript.
+- 🌱 I’m currently learning Rust, Unity 3D, TypeScript.
 ## 🎯 Some of my projects inclue:
   ### Major projects
   * [__Nenji__](https://morphykun0vvv0.itch.io/nenji) - A 2d action platformer made with awesome Godot engine. 
